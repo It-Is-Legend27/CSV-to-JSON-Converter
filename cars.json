@@ -1,0 +1,602 @@
+[
+    {
+        "make": "Mercedes-Benz",
+        "model": "CLK-Class",
+        "year": "1998",
+        "color": "Khaki"
+    },
+    {
+        "make": "Chrysler",
+        "model": "Town & Country",
+        "year": "2000",
+        "color": "Puce"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Corvette",
+        "year": "1957",
+        "color": "Green"
+    },
+    {
+        "make": "Oldsmobile",
+        "model": "98",
+        "year": "1992",
+        "color": "Green"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Truck",
+        "year": "1985",
+        "color": "Orange"
+    },
+    {
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "year": "2009",
+        "color": "Crimson"
+    },
+    {
+        "make": "Oldsmobile",
+        "model": "Cutlass",
+        "year": "1997",
+        "color": "Fuscia"
+    },
+    {
+        "make": "Subaru",
+        "model": "Impreza",
+        "year": "2012",
+        "color": "Violet"
+    },
+    {
+        "make": "Mazda",
+        "model": "MPV",
+        "year": "2001",
+        "color": "Indigo"
+    },
+    {
+        "make": "Ford",
+        "model": "Econoline E150",
+        "year": "1992",
+        "color": "Khaki"
+    },
+    {
+        "make": "Mazda",
+        "model": "Mazda5",
+        "year": "2006",
+        "color": "Green"
+    },
+    {
+        "make": "Nissan",
+        "model": "Xterra",
+        "year": "2006",
+        "color": "Maroon"
+    },
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2011",
+        "color": "Puce"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Lumina",
+        "year": "1993",
+        "color": "Red"
+    },
+    {
+        "make": "Lexus",
+        "model": "ES",
+        "year": "2003",
+        "color": "Orange"
+    },
+    {
+        "make": "Porsche",
+        "model": "911",
+        "year": "1994",
+        "color": "Khaki"
+    },
+    {
+        "make": "Dodge",
+        "model": "Grand Caravan",
+        "year": "1998",
+        "color": "Orange"
+    },
+    {
+        "make": "Lexus",
+        "model": "LS",
+        "year": "2007",
+        "color": "Turquoise"
+    },
+    {
+        "make": "BMW",
+        "model": "M3",
+        "year": "2009",
+        "color": "Puce"
+    },
+    {
+        "make": "Lincoln",
+        "model": "Continental",
+        "year": "2001",
+        "color": "Indigo"
+    },
+    {
+        "make": "Mercury",
+        "model": "Sable",
+        "year": "1991",
+        "color": "Indigo"
+    },
+    {
+        "make": "Audi",
+        "model": "A7",
+        "year": "2012",
+        "color": "Fuscia"
+    },
+    {
+        "make": "Subaru",
+        "model": "Impreza",
+        "year": "1999",
+        "color": "Teal"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Mighty Max",
+        "year": "1995",
+        "color": "Fuscia"
+    },
+    {
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "year": "2004",
+        "color": "Puce"
+    },
+    {
+        "make": "Bentley",
+        "model": "Continental",
+        "year": "2008",
+        "color": "Pink"
+    },
+    {
+        "make": "Ford",
+        "model": "Bronco",
+        "year": "1986",
+        "color": "Violet"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Sonata",
+        "year": "2003",
+        "color": "Mauv"
+    },
+    {
+        "make": "Lexus",
+        "model": "GS",
+        "year": "2009",
+        "color": "Teal"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Eurovan",
+        "year": "2000",
+        "color": "Purple"
+    },
+    {
+        "make": "Acura",
+        "model": "SLX",
+        "year": "1998",
+        "color": "Fuscia"
+    },
+    {
+        "make": "Ford",
+        "model": "F250",
+        "year": "2005",
+        "color": "Maroon"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "year": "1998",
+        "color": "Khaki"
+    },
+    {
+        "make": "Ford",
+        "model": "Ranger",
+        "year": "1993",
+        "color": "Teal"
+    },
+    {
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "year": "2005",
+        "color": "Aquamarine"
+    },
+    {
+        "make": "Ford",
+        "model": "E250",
+        "year": "2011",
+        "color": "Aquamarine"
+    },
+    {
+        "make": "Honda",
+        "model": "Ridgeline",
+        "year": "2009",
+        "color": "Green"
+    },
+    {
+        "make": "Dodge",
+        "model": "Stealth",
+        "year": "1995",
+        "color": "Pink"
+    },
+    {
+        "make": "Cadillac",
+        "model": "Escalade EXT",
+        "year": "2009",
+        "color": "Maroon"
+    },
+    {
+        "make": "Cadillac",
+        "model": "Allante",
+        "year": "1992",
+        "color": "Pink"
+    },
+    {
+        "make": "Pontiac",
+        "model": "G8",
+        "year": "2008",
+        "color": "Green"
+    },
+    {
+        "make": "Ford",
+        "model": "Five Hundred",
+        "year": "2006",
+        "color": "Teal"
+    },
+    {
+        "make": "GMC",
+        "model": "Sonoma",
+        "year": "2003",
+        "color": "Purple"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Blazer",
+        "year": "1995",
+        "color": "Turquoise"
+    },
+    {
+        "make": "Nissan",
+        "model": "Titan",
+        "year": "2005",
+        "color": "Yellow"
+    },
+    {
+        "make": "Cadillac",
+        "model": "Escalade",
+        "year": "2011",
+        "color": "Green"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Sonata",
+        "year": "1996",
+        "color": "Turquoise"
+    },
+    {
+        "make": "GMC",
+        "model": "1500 Club Coupe",
+        "year": "1992",
+        "color": "Indigo"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Venture",
+        "year": "2005",
+        "color": "Violet"
+    },
+    {
+        "make": "Pontiac",
+        "model": "Grand Prix",
+        "year": "1980",
+        "color": "Pink"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Astro",
+        "year": "2003",
+        "color": "Violet"
+    },
+    {
+        "make": "Ford",
+        "model": "E250",
+        "year": "2005",
+        "color": "Green"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": "1990",
+        "color": "Red"
+    },
+    {
+        "make": "Lincoln",
+        "model": "Town Car",
+        "year": "1988",
+        "color": "Fuscia"
+    },
+    {
+        "make": "Chrysler",
+        "model": "New Yorker",
+        "year": "1994",
+        "color": "Puce"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Silverado 2500",
+        "year": "2005",
+        "color": "Red"
+    },
+    {
+        "make": "Mercury",
+        "model": "Grand Marquis",
+        "year": "2007",
+        "color": "Orange"
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": "1966",
+        "color": "Teal"
+    },
+    {
+        "make": "Infiniti",
+        "model": "Q",
+        "year": "2000",
+        "color": "Blue"
+    },
+    {
+        "make": "Lincoln",
+        "model": "Navigator",
+        "year": "2007",
+        "color": "Red"
+    },
+    {
+        "make": "Toyota",
+        "model": "Avalon",
+        "year": "2000",
+        "color": "Maroon"
+    },
+    {
+        "make": "Chrysler",
+        "model": "Concorde",
+        "year": "2000",
+        "color": "Violet"
+    },
+    {
+        "make": "Maserati",
+        "model": "Quattroporte",
+        "year": "2007",
+        "color": "Purple"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "year": "2001",
+        "color": "Aquamarine"
+    },
+    {
+        "make": "Ford",
+        "model": "Expedition EL",
+        "year": "2008",
+        "color": "Maroon"
+    },
+    {
+        "make": "Saturn",
+        "model": "S-Series",
+        "year": "2002",
+        "color": "Violet"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Silverado 1500",
+        "year": "1999",
+        "color": "Purple"
+    },
+    {
+        "make": "MINI",
+        "model": "Clubman",
+        "year": "2012",
+        "color": "Purple"
+    },
+    {
+        "make": "Dodge",
+        "model": "Dakota",
+        "year": "1997",
+        "color": "Crimson"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Truck",
+        "year": "1995",
+        "color": "Orange"
+    },
+    {
+        "make": "Ford",
+        "model": "Econoline E150",
+        "year": "1998",
+        "color": "Blue"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Endeavor",
+        "year": "2011",
+        "color": "Blue"
+    },
+    {
+        "make": "Hyundai",
+        "model": "XG350",
+        "year": "2002",
+        "color": "Khaki"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Montero Sport",
+        "year": "2004",
+        "color": "Crimson"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Suburban 2500",
+        "year": "2004",
+        "color": "Green"
+    },
+    {
+        "make": "Toyota",
+        "model": "T100",
+        "year": "1996",
+        "color": "Turquoise"
+    },
+    {
+        "make": "Toyota",
+        "model": "Celica",
+        "year": "1994",
+        "color": "Green"
+    },
+    {
+        "make": "Ford",
+        "model": "Aerostar",
+        "year": "1996",
+        "color": "Orange"
+    },
+    {
+        "make": "Lexus",
+        "model": "LX",
+        "year": "2005",
+        "color": "Orange"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Montero",
+        "year": "1998",
+        "color": "Pink"
+    },
+    {
+        "make": "Acura",
+        "model": "ZDX",
+        "year": "2010",
+        "color": "Fuscia"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "GTI",
+        "year": "1992",
+        "color": "Pink"
+    },
+    {
+        "make": "Dodge",
+        "model": "Charger",
+        "year": "2010",
+        "color": "Violet"
+    },
+    {
+        "make": "Toyota",
+        "model": "Previa",
+        "year": "1996",
+        "color": "Blue"
+    },
+    {
+        "make": "Pontiac",
+        "model": "Sunbird",
+        "year": "1994",
+        "color": "Crimson"
+    },
+    {
+        "make": "Chrysler",
+        "model": "PT Cruiser",
+        "year": "2010",
+        "color": "Red"
+    },
+    {
+        "make": "Nissan",
+        "model": "Sentra",
+        "year": "2004",
+        "color": "Maroon"
+    },
+    {
+        "make": "Ford",
+        "model": "Explorer Sport Trac",
+        "year": "2001",
+        "color": "Yellow"
+    },
+    {
+        "make": "Ford",
+        "model": "F150",
+        "year": "2012",
+        "color": "Violet"
+    },
+    {
+        "make": "Pontiac",
+        "model": "Torrent",
+        "year": "2006",
+        "color": "Purple"
+    },
+    {
+        "make": "Buick",
+        "model": "Somerset",
+        "year": "1986",
+        "color": "Goldenrod"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": "2010",
+        "color": "Purple"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "year": "1992",
+        "color": "Yellow"
+    },
+    {
+        "make": "BMW",
+        "model": "3 Series",
+        "year": "1992",
+        "color": "Crimson"
+    },
+    {
+        "make": "Nissan",
+        "model": "Quest",
+        "year": "1993",
+        "color": "Red"
+    },
+    {
+        "make": "Mercury",
+        "model": "Grand Marquis",
+        "year": "2009",
+        "color": "Turquoise"
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "W201",
+        "year": "1984",
+        "color": "Yellow"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Suburban 1500",
+        "year": "1993",
+        "color": "Indigo"
+    },
+    {
+        "make": "Pontiac",
+        "model": "Grand Prix",
+        "year": "1980",
+        "color": "Pink"
+    },
+    {
+        "make": "Honda",
+        "model": "Insight",
+        "year": "2000",
+        "color": "Yellow"
+    }
+]
