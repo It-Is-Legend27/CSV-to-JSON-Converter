@@ -1,6 +1,4 @@
 # CSV to JSON converter
-import os
-import sys
 import csv2json
 
 header: str = '''
@@ -32,7 +30,7 @@ footer: str = '''
 print(header)
 
 csvName: str = input(promptCSV)
-jsonName: str = csvName#.replace("csv", "json")
+jsonName: str = csvName.replace("csv", "json")
 
 csv2json.csv_to_json(csvName, jsonName)
 

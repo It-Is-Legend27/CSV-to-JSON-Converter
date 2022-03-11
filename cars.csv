@@ -1,101 +1,101 @@
-make,model,year,color
-Mercedes-Benz,CLK-Class,1998,Khaki
-Chrysler,Town & Country,2000,Puce
-Chevrolet,Corvette,1957,Green
-Oldsmobile,98,1992,Green
-Mitsubishi,Truck,1985,Orange
-Jeep,Grand Cherokee,2009,Crimson
-Oldsmobile,Cutlass,1997,Fuscia
-Subaru,Impreza,2012,Violet
-Mazda,MPV,2001,Indigo
-Ford,Econoline E150,1992,Khaki
-Mazda,Mazda5,2006,Green
-Nissan,Xterra,2006,Maroon
-Toyota,Camry,2011,Puce
-Chevrolet,Lumina,1993,Red
-Lexus,ES,2003,Orange
-Porsche,911,1994,Khaki
-Dodge,Grand Caravan,1998,Orange
-Lexus,LS,2007,Turquoise
-BMW,M3,2009,Puce
-Lincoln,Continental,2001,Indigo
-Mercury,Sable,1991,Indigo
-Audi,A7,2012,Fuscia
-Subaru,Impreza,1999,Teal
-Mitsubishi,Mighty Max,1995,Fuscia
-Jeep,Grand Cherokee,2004,Puce
-Bentley,Continental,2008,Pink
-Ford,Bronco,1986,Violet
-Hyundai,Sonata,2003,Mauv
-Lexus,GS,2009,Teal
-Volkswagen,Eurovan,2000,Purple
-Acura,SLX,1998,Fuscia
-Ford,F250,2005,Maroon
-Volkswagen,Jetta,1998,Khaki
-Ford,Ranger,1993,Teal
-Lamborghini,Gallardo,2005,Aquamarine
-Ford,E250,2011,Aquamarine
-Honda,Ridgeline,2009,Green
-Dodge,Stealth,1995,Pink
-Cadillac,Escalade EXT,2009,Maroon
-Cadillac,Allante,1992,Pink
-Pontiac,G8,2008,Green
-Ford,Five Hundred,2006,Teal
-GMC,Sonoma,2003,Purple
-Chevrolet,Blazer,1995,Turquoise
-Nissan,Titan,2005,Yellow
-Cadillac,Escalade,2011,Green
-Hyundai,Sonata,1996,Turquoise
-GMC,1500 Club Coupe,1992,Indigo
-Chevrolet,Venture,2005,Violet
-Pontiac,Grand Prix,1980,Pink
-Chevrolet,Astro,2003,Violet
-Ford,E250,2005,Green
-Volkswagen,Golf,1990,Red
-Lincoln,Town Car,1988,Fuscia
-Chrysler,New Yorker,1994,Puce
-Chevrolet,Silverado 2500,2005,Red
-Mercury,Grand Marquis,2007,Orange
-Ford,Mustang,1966,Teal
-Infiniti,Q,2000,Blue
-Lincoln,Navigator,2007,Red
-Toyota,Avalon,2000,Maroon
-Chrysler,Concorde,2000,Violet
-Maserati,Quattroporte,2007,Purple
-Mitsubishi,Lancer,2001,Aquamarine
-Ford,Expedition EL,2008,Maroon
-Saturn,S-Series,2002,Violet
-Chevrolet,Silverado 1500,1999,Purple
-MINI,Clubman,2012,Purple
-Dodge,Dakota,1997,Crimson
-Mitsubishi,Truck,1995,Orange
-Ford,Econoline E150,1998,Blue
-Mitsubishi,Endeavor,2011,Blue
-Hyundai,XG350,2002,Khaki
-Mitsubishi,Montero Sport,2004,Crimson
-Chevrolet,Suburban 2500,2004,Green
-Toyota,T100,1996,Turquoise
-Toyota,Celica,1994,Green
-Ford,Aerostar,1996,Orange
-Lexus,LX,2005,Orange
-Mitsubishi,Montero,1998,Pink
-Acura,ZDX,2010,Fuscia
-Volkswagen,GTI,1992,Pink
-Dodge,Charger,2010,Violet
-Toyota,Previa,1996,Blue
-Pontiac,Sunbird,1994,Crimson
-Chrysler,PT Cruiser,2010,Red
-Nissan,Sentra,2004,Maroon
-Ford,Explorer Sport Trac,2001,Yellow
-Ford,F150,2012,Violet
-Pontiac,Torrent,2006,Purple
-Buick,Somerset,1986,Goldenrod
-Hyundai,Elantra,2010,Purple
-Volkswagen,Jetta,1992,Yellow
-BMW,3 Series,1992,Crimson
-Nissan,Quest,1993,Red
-Mercury,Grand Marquis,2009,Turquoise
-Mercedes-Benz,W201,1984,Yellow
-Chevrolet,Suburban 1500,1993,Indigo
-Pontiac,Grand Prix,1980,Pink
-Honda,Insight,2000,Yellow
+make,model,year,vin,color
+Mitsubishi,Lancer,2004,WBSKG9C51BE706750,Yellow
+Plymouth,Voyager,1994,JTHBB1BA7A2124804,Green
+Maserati,Coupe,2006,WAULT58E75A583750,Aquamarine
+Ford,Focus,2002,2G4WD582761312911,Green
+Volkswagen,Jetta III,1994,WBA3A5G58EN347298,Purple
+Audi,A4,1996,1G6AH5RX9F0573002,Red
+Mazda,Mazda5,2006,JN1AZ4EH2AM807682,Teal
+Hyundai,Elantra,1998,WA1CYBFE8AD291775,Violet
+Mercury,Grand Marquis,2009,5TFBY5F17CX868488,Pink
+Ford,Windstar,2001,2FMDK3AK7CB014583,Puce
+Porsche,Cayman,2007,5TFBY5F18DX597569,Purple
+Citroën,CX,1974,1FTSW3B55AE516518,Puce
+Chevrolet,Impala,1994,1G6DJ5EG8A0825533,Red
+Lamborghini,Gallardo,2012,WA1EY94L77D139367,Indigo
+Infiniti,I,1996,4T3BA3BB7DU206245,Indigo
+GMC,Vandura G3500,1996,1GYS4NKJ5FR681187,Purple
+Dodge,Dakota,2001,JN1BY1PR7FM887287,Goldenrod
+Mitsubishi,Mirage,1986,1GYS3CEF7DR372073,Teal
+Mercury,Grand Marquis,1995,1VWAH7A3XEC468934,Fuscia
+Acura,TL,2004,WAUVC58EX5A022824,Green
+Dodge,Daytona,1992,3GYFNGE30CS420808,Blue
+Chrysler,Sebring,2002,5N1AL0MM7DC969030,Goldenrod
+Toyota,Highlander,2007,WAUGL68E95A688233,Goldenrod
+Kia,Rio,2003,TRUVD38J591196037,Goldenrod
+Suzuki,Equator,2010,5N1AL0MMXEC812674,Indigo
+BMW,X3,2005,1HGCR2E79EA899450,Khaki
+Toyota,Supra,1992,WAUJT68E85A967324,Violet
+GMC,Suburban 2500,1993,WAUGL68EX5A985818,Goldenrod
+Toyota,Highlander,2007,19UUB2F50FA274295,Turquoise
+Mazda,Miata MX-5,2000,WAUAF98E76A192380,Puce
+Infiniti,QX,2006,5N1AT2MKXEC533235,Aquamarine
+Honda,Accord,1999,WBANA73585C057911,Maroon
+Buick,Skylark,1994,1N6BF0KM7FN945480,Indigo
+Nissan,Rogue,2011,1N6AD0CW6FN771726,Purple
+Lincoln,MKS,2012,WBAGN63505D216907,Goldenrod
+Subaru,Impreza,1998,KMHFG4JG5CA732501,Blue
+Chevrolet,Blazer,1997,4T1BK1EB6FU003047,Blue
+Pontiac,Daewoo Kalos,2005,1G4GE5GD0BF111018,Violet
+Mitsubishi,Mighty Max,1995,4T1BB3EK3BU969216,Blue
+Hyundai,Entourage,2007,1N6AA0CH4DN181841,Mauv
+Chevrolet,Suburban,2010,JTEBU4BF4DK838592,Yellow
+Plymouth,Colt Vista,1994,3VW507AT4FM808037,Red
+Maserati,430,1989,KNALW4D41F6834409,Goldenrod
+Chevrolet,Express 2500,2004,1C6RD7HT3CS046425,Teal
+Pontiac,Sunbird,1984,WBA3B9C59DF461510,Teal
+Rolls-Royce,Phantom,2010,1GKS1GEJ9DR897857,Khaki
+Lexus,GX,2003,1GKKRNED9CJ450577,Turquoise
+Kia,Optima,2001,WBAYM1C57DD813741,Pink
+Mercedes-Benz,S-Class,2001,SCFAB02A46G539193,Goldenrod
+Acura,RDX,2010,WAUDL94F26N917199,Mauv
+Chevrolet,Suburban 2500,2002,WBA3B9G58FN369159,Yellow
+Chevrolet,Corvette,2005,JTDKTUD36DD148258,Green
+Chrysler,Sebring,2006,1FTEX1CMXBK768644,Turquoise
+Volkswagen,Eurovan,2000,WBAKE5C5XBE399212,Green
+Plymouth,Grand Voyager,1994,1FTEW1C82FF678618,Green
+Audi,S4,2002,WAUEH64B81N982827,Purple
+Mitsubishi,Mighty Max,1986,1GD311CG8FZ417567,Turquoise
+Mazda,RX-7,1995,WDDEJ7EBXEA763477,Puce
+Mazda,Mazda3,2004,1G4PT5SV4F4417680,Turquoise
+Isuzu,i-Series,2007,WAUEV74F28N661572,Goldenrod
+Chrysler,300M,2001,WA1CV94L49D626996,Turquoise
+Chevrolet,Corvette,2000,5N1AT2ML3FC135522,Orange
+Lexus,LS,2003,1G6AJ1RX2F0725019,Orange
+Plymouth,Breeze,1998,2T1KU4EE8CC020676,Pink
+GMC,Sonoma Club Coupe,1996,TRUWT28N911443746,Maroon
+Audi,Allroad,2001,WBAAZ33443P263143,Green
+GMC,Savana,2007,1FTEX1CM1BK485761,Yellow
+Ford,Thunderbird,2006,3GYFK12289G557489,Aquamarine
+Kia,Sephia,1999,1G6AE5S30E0659491,Puce
+Pontiac,Grand Prix,1993,1G6DW677470004300,Khaki
+GMC,1500 Club Coupe,1996,WAUDFAFL7CN241873,Teal
+Subaru,Impreza,2012,WAUAF48HX9K766210,Blue
+Ford,Escape,2009,1N6BF0KM1FN928285,Pink
+Chevrolet,Silverado,2003,WAULT68EX5A759437,Red
+Pontiac,Bonneville,1989,1GYFK66838R019079,Pink
+Pontiac,Aztek,2003,WAUCFAFR1AA059008,Khaki
+Toyota,Corolla,1997,1N6AF0KX9EN422806,Yellow
+Hyundai,Tucson,2011,WAULD54B72N059592,Violet
+Hyundai,Veloster,2012,KNADH5A35A6292448,Crimson
+Audi,RS 4,2008,WBAYP1C54DD057860,Turquoise
+Chevrolet,G-Series G10,1994,3MZBM1U75EM605613,Aquamarine
+Ford,Bronco,1987,WAUAH68D41A496095,Pink
+Ford,Contour,1997,1G4GC5GR4DF214303,Orange
+Isuzu,Stylus,1993,WAUBH74F76N201945,Goldenrod
+Audi,A3,2011,WDDHF7GB3FB632303,Yellow
+Mercedes-Benz,SL-Class,2007,2T1BU4EEXCC390947,Puce
+Chrysler,Town & Country,2012,1GD010CG7BF200617,Red
+Buick,Riviera,1987,WAUCVAFR9BA648487,Turquoise
+BMW,3 Series,2011,5GAKVCED1CJ340717,Aquamarine
+Mercedes-Benz,W126,1983,1FTWW3A5XAE864155,Crimson
+Subaru,Brat,1984,1GD22XEG7FZ014852,Aquamarine
+Hummer,H2,2003,WBAKP9C58ED439587,Yellow
+Mercedes-Benz,GL-Class,2010,WAUA2AFD0DN315062,Purple
+Kia,Forte,2012,WBADT33482G816910,Blue
+Mitsubishi,i-MiEV,2012,5N1AN0NW6FN261871,Pink
+Pontiac,Grand Am,2002,1C4SDHCT2DC447421,Fuscia
+Mercury,Mariner,2006,3C63D3GL1CG976458,Purple
+Plymouth,Voyager,1992,KNADN5A31F6296240,Puce
+BMW,8 Series,1993,1N4AL3APXEC032457,Turquoise
+Isuzu,Ascender,2007,2T1BU4EE5BC152258,Puce
