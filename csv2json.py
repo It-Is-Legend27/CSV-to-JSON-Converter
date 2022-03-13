@@ -19,11 +19,13 @@ import csv
 import json
 
 def csv_to_list(fileName: str) -> list:
-    '''
-    @brief Converts a csv file into a list of dict
-    @param fileName: str - Name of the csv file
-    @return list of dict
-    '''
+    """
+    Reads a csv file and returns a list of dictionaries
+    
+    :param fileName: str = the name of the file to be read
+    :type fileName: str
+    :return: A list of dictionaries.
+    """
     ls: list = list()
     with open(fileName, 'r') as csvFile:
         reader = csv.DictReader(csvFile) 
@@ -33,20 +35,24 @@ def csv_to_list(fileName: str) -> list:
     return ls
 
 def list_to_json(ls: list, fileName: str) -> None:
-    '''
-    @brief Converts a list of dict into a json file
-    @param ls: list - list to convert to json file
-    @param fileName: str - name of the json File
-    @return None
-    '''
+    """
+    Convert a list to a json file
+    
+    :param ls: the list you want to convert to JSON
+    :type ls: list
+    :param fileName: the name of the file you want to save the json to
+    :type fileName: str
+    """
     with open(fileName, 'w') as jsonFile:
         json.dump(ls, jsonFile)
 
 def csv_to_json(csvName: str, jsonName: str) -> None:
-    '''
-    @brief Directly converts a cvs file into a json file
-    @param csvName: str - name of csv file
-    @param jsonName: str - name of json file
-    @return None
-    '''
+    """
+    Convert a csv file to a json file
+    
+    :param csvName: The name of the CSV file to be converted to JSON
+    :type csvName: str
+    :param jsonName: the name of the json file you want to create
+    :type jsonName: str
+    """
     list_to_json(csv_to_list(csvName), jsonName)

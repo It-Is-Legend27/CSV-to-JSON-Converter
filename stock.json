@@ -1,1 +1,502 @@
-[{"name": "Global Indemnity Limited", "symbol": "GBLIL", "price": "$3.07"}, {"name": "eGain Corporation", "symbol": "EGAN", "price": "$0.80"}, {"name": "Avid Technology, Inc.", "symbol": "AVID", "price": "$0.13"}, {"name": "Mohawk Industries, Inc.", "symbol": "MHK", "price": "$5.73"}, {"name": "Blackrock MuniYield Fund, Inc.", "symbol": "MYD", "price": "$1.47"}, {"name": "Black Stone Minerals, L.P.", "symbol": "BSM", "price": "$0.08"}, {"name": "NGL ENERGY PARTNERS LP", "symbol": "NGL", "price": "$2.59"}, {"name": "Aeglea BioTherapeutics, Inc.", "symbol": "AGLE", "price": "$6.10"}, {"name": "Sorrento Therapeutics, Inc.", "symbol": "SRNE", "price": "$1.41"}, {"name": "China Information Technology, Inc.", "symbol": "CNIT", "price": "$6.40"}, {"name": "Community Bank System, Inc.", "symbol": "CBU", "price": "$5.28"}, {"name": "First Trust SSI Strategic Convertible Securities ETF", "symbol": "FCVT", "price": "$5.95"}, {"name": "United Rentals, Inc.", "symbol": "URI", "price": "$0.67"}, {"name": "Ashland Global Holdings Inc.", "symbol": "ASH", "price": "$5.03"}, {"name": "iKang Healthcare Group, Inc.", "symbol": "KANG", "price": "$2.49"}, {"name": "AmeriServ Financial Inc.", "symbol": "ASRVP", "price": "$6.81"}, {"name": "Nordic American Offshore Ltd", "symbol": "NAO", "price": "$9.39"}, {"name": "American Electric Power Company, Inc.", "symbol": "AEP", "price": "$4.65"}, {"name": "WhiteHorse Finance, Inc.", "symbol": "WHFBL", "price": "$1.84"}, {"name": "Dynegy Inc.", "symbol": "DYN", "price": "$6.59"}, {"name": "Barington/Hilco Acquisition Corp.", "symbol": "BHACR", "price": "$4.73"}, {"name": "VanEck Vectors Pharmaceutical ETF", "symbol": "PPH", "price": "$9.68"}, {"name": "Teekay Offshore Partners L.P.", "symbol": "TOO^B", "price": "$8.42"}, {"name": "REX American Resources Corporation", "symbol": "REX", "price": "$7.11"}, {"name": "Alexandria Real Estate Equities, Inc.", "symbol": "ARE", "price": "$9.85"}, {"name": "China New Borun Corporation", "symbol": "BORN", "price": "$5.83"}, {"name": "First Capital, Inc.", "symbol": "FCAP", "price": "$5.33"}, {"name": "J.M. Smucker Company (The)", "symbol": "SJM", "price": "$3.98"}, {"name": "Public Storage", "symbol": "PSA^T", "price": "$2.30"}, {"name": "Aberdeen Greater China Fund, Inc.", "symbol": "GCH", "price": "$7.12"}, {"name": "SPX FLOW, Inc.", "symbol": "FLOW", "price": "$9.13"}, {"name": "Communications Systems, Inc.", "symbol": "JCS", "price": "$9.74"}, {"name": "Brookfield Canada Office Properties", "symbol": "BOXC", "price": "$1.89"}, {"name": "ESSA Bancorp, Inc.", "symbol": "ESSA", "price": "$8.05"}, {"name": "Sprott Focus Trust, Inc.", "symbol": "FUND", "price": "$6.18"}, {"name": "Deluxe Corporation", "symbol": "DLX", "price": "$6.07"}, {"name": "Jones Energy, Inc.", "symbol": "JONE", "price": "$4.73"}, {"name": "Eaton Vance Corporation", "symbol": "EV", "price": "$4.72"}, {"name": "Chevron Corporation", "symbol": "CVX", "price": "$6.15"}, {"name": "Blackrock Global", "symbol": "BOE", "price": "$0.51"}, {"name": "China Lending Corporation", "symbol": "CLDC", "price": "$0.78"}, {"name": "8point3 Energy Partners LP", "symbol": "CAFD", "price": "$2.58"}, {"name": "Avery Dennison Corporation", "symbol": "AVY", "price": "$1.76"}, {"name": "American River Bankshares", "symbol": "AMRB", "price": "$4.16"}, {"name": "WisdomTree Investments, Inc.", "symbol": "WETF", "price": "$8.20"}, {"name": "Synacor, Inc.", "symbol": "SYNC", "price": "$6.76"}, {"name": "Landcadia Holdings, Inc.", "symbol": "LCA", "price": "$4.80"}, {"name": "Eaton Vance Enhanced Equity Income Fund II", "symbol": "EOS", "price": "$2.81"}, {"name": "RealPage, Inc.", "symbol": "RP", "price": "$9.52"}, {"name": "Gridsum Holding Inc.", "symbol": "GSUM", "price": "$6.30"}, {"name": "Ramco-Gershenson Properties Trust", "symbol": "RPT^D", "price": "$2.32"}, {"name": "Virtusa Corporation", "symbol": "VRTU", "price": "$6.82"}, {"name": "Ascendis Pharma A/S", "symbol": "ASND", "price": "$0.12"}, {"name": "Xinyuan Real Estate Co Ltd", "symbol": "XIN", "price": "$8.35"}, {"name": "Standard Motor Products, Inc.", "symbol": "SMP", "price": "$8.89"}, {"name": "IPG Photonics Corporation", "symbol": "IPGP", "price": "$5.31"}, {"name": "LM Funding America, Inc.", "symbol": "LMFA", "price": "$7.00"}, {"name": "Embotelladora Andina S.A.", "symbol": "AKO.B", "price": "$2.39"}, {"name": "Banco Santander, S.A.", "symbol": "SAN^B", "price": "$4.15"}, {"name": "Rexnord Corporation", "symbol": "RXN^A", "price": "$8.30"}, {"name": "The Organics ETF", "symbol": "ORG", "price": "$1.37"}, {"name": "AgroFresh Solutions, Inc.", "symbol": "AGFS", "price": "$0.51"}, {"name": "Transdigm Group Incorporated", "symbol": "TDG", "price": "$9.82"}, {"name": "Tailored Brands, Inc.", "symbol": "TLRD", "price": "$1.23"}, {"name": "Superior Uniform Group, Inc.", "symbol": "SGC", "price": "$9.15"}, {"name": "Essendant Inc.", "symbol": "ESND", "price": "$8.53"}, {"name": "Banc of California, Inc.", "symbol": "BANC^C", "price": "$3.01"}, {"name": "Easterly Government Properties, Inc.", "symbol": "DEA", "price": "$0.46"}, {"name": "Intercept Pharmaceuticals, Inc.", "symbol": "ICPT", "price": "$1.93"}, {"name": "Cemex S.A.B. de C.V.", "symbol": "CX", "price": "$8.00"}, {"name": "Alliance California Municipal Income Fund Inc", "symbol": "AKP", "price": "$6.37"}, {"name": "Floor & Decor Holdings, Inc.", "symbol": "FND", "price": "$8.80"}, {"name": "Westbury Bancorp, Inc.", "symbol": "WBB", "price": "$9.99"}, {"name": "1st Constitution Bancorp (NJ)", "symbol": "FCCY", "price": "$7.58"}, {"name": "Donegal Group, Inc.", "symbol": "DGICA", "price": "$5.82"}, {"name": "Southern California Edison Company", "symbol": "SCE^F", "price": "$0.45"}, {"name": "Boston Scientific Corporation", "symbol": "BSX", "price": "$2.09"}, {"name": "Lehman ABS Corporation", "symbol": "KTN", "price": "$3.47"}, {"name": "Cheetah Mobile Inc.", "symbol": "CMCM", "price": "$5.43"}, {"name": "Green Brick Partners, Inc.", "symbol": "GRBK", "price": "$6.01"}, {"name": "WisdomTree Emerging Markets Corporate Bond Fund", "symbol": "EMCB", "price": "$2.31"}, {"name": "CRA International,Inc.", "symbol": "CRAI", "price": "$1.83"}, {"name": "El Pollo Loco Holdings, Inc.", "symbol": "LOCO", "price": "$8.19"}, {"name": "Goldman Sachs Group, Inc. (The)", "symbol": "GS^B", "price": "$6.36"}, {"name": "Center Coast MLP & Infrastructure Fund", "symbol": "CEN", "price": "$2.88"}, {"name": "Brady Corporation", "symbol": "BRC", "price": "$2.21"}, {"name": "Eyegate Pharmaceuticals, Inc.", "symbol": "EYEG", "price": "$7.86"}, {"name": "FleetCor Technologies, Inc.", "symbol": "FLT", "price": "$0.28"}, {"name": "Great Elm Capital Group, Inc. ", "symbol": "GEC", "price": "$9.91"}, {"name": "Och-Ziff Capital Management Group LLC", "symbol": "OZM", "price": "$2.75"}, {"name": "CSS Industries, Inc.", "symbol": "CSS", "price": "$9.54"}, {"name": "AtriCure, Inc.", "symbol": "ATRC", "price": "$0.35"}, {"name": "Eaton Vance NextShares Trust II", "symbol": "EVLMC", "price": "$5.76"}, {"name": "Cogent Communications Holdings, Inc.", "symbol": "CCOI", "price": "$4.96"}, {"name": "Natural Health Trends Corp.", "symbol": "NHTC", "price": "$1.91"}, {"name": "Penn National Gaming, Inc.", "symbol": "PENN", "price": "$2.75"}, {"name": "Clean Harbors, Inc.", "symbol": "CLH", "price": "$3.88"}, {"name": "Williams Partners LP", "symbol": "WPZ", "price": "$3.53"}, {"name": "First Community Financial Partners, Inc.", "symbol": "FCFP", "price": "$3.88"}, {"name": "Aspen Aerogels, Inc.", "symbol": "ASPN", "price": "$5.91"}]
+[
+    {
+        "name": "Global Indemnity Limited",
+        "symbol": "GBLIL",
+        "price": "$3.07"
+    },
+    {
+        "name": "eGain Corporation",
+        "symbol": "EGAN",
+        "price": "$0.80"
+    },
+    {
+        "name": "Avid Technology, Inc.",
+        "symbol": "AVID",
+        "price": "$0.13"
+    },
+    {
+        "name": "Mohawk Industries, Inc.",
+        "symbol": "MHK",
+        "price": "$5.73"
+    },
+    {
+        "name": "Blackrock MuniYield Fund, Inc.",
+        "symbol": "MYD",
+        "price": "$1.47"
+    },
+    {
+        "name": "Black Stone Minerals, L.P.",
+        "symbol": "BSM",
+        "price": "$0.08"
+    },
+    {
+        "name": "NGL ENERGY PARTNERS LP",
+        "symbol": "NGL",
+        "price": "$2.59"
+    },
+    {
+        "name": "Aeglea BioTherapeutics, Inc.",
+        "symbol": "AGLE",
+        "price": "$6.10"
+    },
+    {
+        "name": "Sorrento Therapeutics, Inc.",
+        "symbol": "SRNE",
+        "price": "$1.41"
+    },
+    {
+        "name": "China Information Technology, Inc.",
+        "symbol": "CNIT",
+        "price": "$6.40"
+    },
+    {
+        "name": "Community Bank System, Inc.",
+        "symbol": "CBU",
+        "price": "$5.28"
+    },
+    {
+        "name": "First Trust SSI Strategic Convertible Securities ETF",
+        "symbol": "FCVT",
+        "price": "$5.95"
+    },
+    {
+        "name": "United Rentals, Inc.",
+        "symbol": "URI",
+        "price": "$0.67"
+    },
+    {
+        "name": "Ashland Global Holdings Inc.",
+        "symbol": "ASH",
+        "price": "$5.03"
+    },
+    {
+        "name": "iKang Healthcare Group, Inc.",
+        "symbol": "KANG",
+        "price": "$2.49"
+    },
+    {
+        "name": "AmeriServ Financial Inc.",
+        "symbol": "ASRVP",
+        "price": "$6.81"
+    },
+    {
+        "name": "Nordic American Offshore Ltd",
+        "symbol": "NAO",
+        "price": "$9.39"
+    },
+    {
+        "name": "American Electric Power Company, Inc.",
+        "symbol": "AEP",
+        "price": "$4.65"
+    },
+    {
+        "name": "WhiteHorse Finance, Inc.",
+        "symbol": "WHFBL",
+        "price": "$1.84"
+    },
+    {
+        "name": "Dynegy Inc.",
+        "symbol": "DYN",
+        "price": "$6.59"
+    },
+    {
+        "name": "Barington/Hilco Acquisition Corp.",
+        "symbol": "BHACR",
+        "price": "$4.73"
+    },
+    {
+        "name": "VanEck Vectors Pharmaceutical ETF",
+        "symbol": "PPH",
+        "price": "$9.68"
+    },
+    {
+        "name": "Teekay Offshore Partners L.P.",
+        "symbol": "TOO^B",
+        "price": "$8.42"
+    },
+    {
+        "name": "REX American Resources Corporation",
+        "symbol": "REX",
+        "price": "$7.11"
+    },
+    {
+        "name": "Alexandria Real Estate Equities, Inc.",
+        "symbol": "ARE",
+        "price": "$9.85"
+    },
+    {
+        "name": "China New Borun Corporation",
+        "symbol": "BORN",
+        "price": "$5.83"
+    },
+    {
+        "name": "First Capital, Inc.",
+        "symbol": "FCAP",
+        "price": "$5.33"
+    },
+    {
+        "name": "J.M. Smucker Company (The)",
+        "symbol": "SJM",
+        "price": "$3.98"
+    },
+    {
+        "name": "Public Storage",
+        "symbol": "PSA^T",
+        "price": "$2.30"
+    },
+    {
+        "name": "Aberdeen Greater China Fund, Inc.",
+        "symbol": "GCH",
+        "price": "$7.12"
+    },
+    {
+        "name": "SPX FLOW, Inc.",
+        "symbol": "FLOW",
+        "price": "$9.13"
+    },
+    {
+        "name": "Communications Systems, Inc.",
+        "symbol": "JCS",
+        "price": "$9.74"
+    },
+    {
+        "name": "Brookfield Canada Office Properties",
+        "symbol": "BOXC",
+        "price": "$1.89"
+    },
+    {
+        "name": "ESSA Bancorp, Inc.",
+        "symbol": "ESSA",
+        "price": "$8.05"
+    },
+    {
+        "name": "Sprott Focus Trust, Inc.",
+        "symbol": "FUND",
+        "price": "$6.18"
+    },
+    {
+        "name": "Deluxe Corporation",
+        "symbol": "DLX",
+        "price": "$6.07"
+    },
+    {
+        "name": "Jones Energy, Inc.",
+        "symbol": "JONE",
+        "price": "$4.73"
+    },
+    {
+        "name": "Eaton Vance Corporation",
+        "symbol": "EV",
+        "price": "$4.72"
+    },
+    {
+        "name": "Chevron Corporation",
+        "symbol": "CVX",
+        "price": "$6.15"
+    },
+    {
+        "name": "Blackrock Global",
+        "symbol": "BOE",
+        "price": "$0.51"
+    },
+    {
+        "name": "China Lending Corporation",
+        "symbol": "CLDC",
+        "price": "$0.78"
+    },
+    {
+        "name": "8point3 Energy Partners LP",
+        "symbol": "CAFD",
+        "price": "$2.58"
+    },
+    {
+        "name": "Avery Dennison Corporation",
+        "symbol": "AVY",
+        "price": "$1.76"
+    },
+    {
+        "name": "American River Bankshares",
+        "symbol": "AMRB",
+        "price": "$4.16"
+    },
+    {
+        "name": "WisdomTree Investments, Inc.",
+        "symbol": "WETF",
+        "price": "$8.20"
+    },
+    {
+        "name": "Synacor, Inc.",
+        "symbol": "SYNC",
+        "price": "$6.76"
+    },
+    {
+        "name": "Landcadia Holdings, Inc.",
+        "symbol": "LCA",
+        "price": "$4.80"
+    },
+    {
+        "name": "Eaton Vance Enhanced Equity Income Fund II",
+        "symbol": "EOS",
+        "price": "$2.81"
+    },
+    {
+        "name": "RealPage, Inc.",
+        "symbol": "RP",
+        "price": "$9.52"
+    },
+    {
+        "name": "Gridsum Holding Inc.",
+        "symbol": "GSUM",
+        "price": "$6.30"
+    },
+    {
+        "name": "Ramco-Gershenson Properties Trust",
+        "symbol": "RPT^D",
+        "price": "$2.32"
+    },
+    {
+        "name": "Virtusa Corporation",
+        "symbol": "VRTU",
+        "price": "$6.82"
+    },
+    {
+        "name": "Ascendis Pharma A/S",
+        "symbol": "ASND",
+        "price": "$0.12"
+    },
+    {
+        "name": "Xinyuan Real Estate Co Ltd",
+        "symbol": "XIN",
+        "price": "$8.35"
+    },
+    {
+        "name": "Standard Motor Products, Inc.",
+        "symbol": "SMP",
+        "price": "$8.89"
+    },
+    {
+        "name": "IPG Photonics Corporation",
+        "symbol": "IPGP",
+        "price": "$5.31"
+    },
+    {
+        "name": "LM Funding America, Inc.",
+        "symbol": "LMFA",
+        "price": "$7.00"
+    },
+    {
+        "name": "Embotelladora Andina S.A.",
+        "symbol": "AKO.B",
+        "price": "$2.39"
+    },
+    {
+        "name": "Banco Santander, S.A.",
+        "symbol": "SAN^B",
+        "price": "$4.15"
+    },
+    {
+        "name": "Rexnord Corporation",
+        "symbol": "RXN^A",
+        "price": "$8.30"
+    },
+    {
+        "name": "The Organics ETF",
+        "symbol": "ORG",
+        "price": "$1.37"
+    },
+    {
+        "name": "AgroFresh Solutions, Inc.",
+        "symbol": "AGFS",
+        "price": "$0.51"
+    },
+    {
+        "name": "Transdigm Group Incorporated",
+        "symbol": "TDG",
+        "price": "$9.82"
+    },
+    {
+        "name": "Tailored Brands, Inc.",
+        "symbol": "TLRD",
+        "price": "$1.23"
+    },
+    {
+        "name": "Superior Uniform Group, Inc.",
+        "symbol": "SGC",
+        "price": "$9.15"
+    },
+    {
+        "name": "Essendant Inc.",
+        "symbol": "ESND",
+        "price": "$8.53"
+    },
+    {
+        "name": "Banc of California, Inc.",
+        "symbol": "BANC^C",
+        "price": "$3.01"
+    },
+    {
+        "name": "Easterly Government Properties, Inc.",
+        "symbol": "DEA",
+        "price": "$0.46"
+    },
+    {
+        "name": "Intercept Pharmaceuticals, Inc.",
+        "symbol": "ICPT",
+        "price": "$1.93"
+    },
+    {
+        "name": "Cemex S.A.B. de C.V.",
+        "symbol": "CX",
+        "price": "$8.00"
+    },
+    {
+        "name": "Alliance California Municipal Income Fund Inc",
+        "symbol": "AKP",
+        "price": "$6.37"
+    },
+    {
+        "name": "Floor & Decor Holdings, Inc.",
+        "symbol": "FND",
+        "price": "$8.80"
+    },
+    {
+        "name": "Westbury Bancorp, Inc.",
+        "symbol": "WBB",
+        "price": "$9.99"
+    },
+    {
+        "name": "1st Constitution Bancorp (NJ)",
+        "symbol": "FCCY",
+        "price": "$7.58"
+    },
+    {
+        "name": "Donegal Group, Inc.",
+        "symbol": "DGICA",
+        "price": "$5.82"
+    },
+    {
+        "name": "Southern California Edison Company",
+        "symbol": "SCE^F",
+        "price": "$0.45"
+    },
+    {
+        "name": "Boston Scientific Corporation",
+        "symbol": "BSX",
+        "price": "$2.09"
+    },
+    {
+        "name": "Lehman ABS Corporation",
+        "symbol": "KTN",
+        "price": "$3.47"
+    },
+    {
+        "name": "Cheetah Mobile Inc.",
+        "symbol": "CMCM",
+        "price": "$5.43"
+    },
+    {
+        "name": "Green Brick Partners, Inc.",
+        "symbol": "GRBK",
+        "price": "$6.01"
+    },
+    {
+        "name": "WisdomTree Emerging Markets Corporate Bond Fund",
+        "symbol": "EMCB",
+        "price": "$2.31"
+    },
+    {
+        "name": "CRA International,Inc.",
+        "symbol": "CRAI",
+        "price": "$1.83"
+    },
+    {
+        "name": "El Pollo Loco Holdings, Inc.",
+        "symbol": "LOCO",
+        "price": "$8.19"
+    },
+    {
+        "name": "Goldman Sachs Group, Inc. (The)",
+        "symbol": "GS^B",
+        "price": "$6.36"
+    },
+    {
+        "name": "Center Coast MLP & Infrastructure Fund",
+        "symbol": "CEN",
+        "price": "$2.88"
+    },
+    {
+        "name": "Brady Corporation",
+        "symbol": "BRC",
+        "price": "$2.21"
+    },
+    {
+        "name": "Eyegate Pharmaceuticals, Inc.",
+        "symbol": "EYEG",
+        "price": "$7.86"
+    },
+    {
+        "name": "FleetCor Technologies, Inc.",
+        "symbol": "FLT",
+        "price": "$0.28"
+    },
+    {
+        "name": "Great Elm Capital Group, Inc. ",
+        "symbol": "GEC",
+        "price": "$9.91"
+    },
+    {
+        "name": "Och-Ziff Capital Management Group LLC",
+        "symbol": "OZM",
+        "price": "$2.75"
+    },
+    {
+        "name": "CSS Industries, Inc.",
+        "symbol": "CSS",
+        "price": "$9.54"
+    },
+    {
+        "name": "AtriCure, Inc.",
+        "symbol": "ATRC",
+        "price": "$0.35"
+    },
+    {
+        "name": "Eaton Vance NextShares Trust II",
+        "symbol": "EVLMC",
+        "price": "$5.76"
+    },
+    {
+        "name": "Cogent Communications Holdings, Inc.",
+        "symbol": "CCOI",
+        "price": "$4.96"
+    },
+    {
+        "name": "Natural Health Trends Corp.",
+        "symbol": "NHTC",
+        "price": "$1.91"
+    },
+    {
+        "name": "Penn National Gaming, Inc.",
+        "symbol": "PENN",
+        "price": "$2.75"
+    },
+    {
+        "name": "Clean Harbors, Inc.",
+        "symbol": "CLH",
+        "price": "$3.88"
+    },
+    {
+        "name": "Williams Partners LP",
+        "symbol": "WPZ",
+        "price": "$3.53"
+    },
+    {
+        "name": "First Community Financial Partners, Inc.",
+        "symbol": "FCFP",
+        "price": "$3.88"
+    },
+    {
+        "name": "Aspen Aerogels, Inc.",
+        "symbol": "ASPN",
+        "price": "$5.91"
+    }
+]
